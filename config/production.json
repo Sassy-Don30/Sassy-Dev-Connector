@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://tester123:tester123@devconnector.0pg5o.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtToken": "hushBaby",
+    "githubClientId": "956fd45f5b4778196550",
+    "githubSecret": "f0cad90007bfac1d8aecdac36cee901a7a9ba18d"
+}
